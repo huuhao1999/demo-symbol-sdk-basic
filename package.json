@@ -1,0 +1,23 @@
+{
+  "name": "demo-symbol-sdk-basic",
+  "version": "1.0.0",
+  "description": "demo basic transaction using symbol-sdk-basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huuhao1999/demo-symbol-sdk-basic.git"
+  },
+  "author": "huuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huuhao1999/demo-symbol-sdk-basic/issues"
+  },
+  "homepage": "https://github.com/huuhao1999/demo-symbol-sdk-basic#readme",
+  "dependencies": {
+    "symbol-sdk": "^0.22.2",
+    "utf8": "^3.0.0"
+  }
+}
